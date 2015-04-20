@@ -19,4 +19,13 @@ vieWillAppear
 ```
 will provide nice effect while moving back to table controller
 
+<h2>Author</h2>
 
+Patrik Vaberer, patrik.vaberer@gmail.com<br/>
+<a target="_blank" href="https://sk.linkedin.com/in/vaberer">LinkedIn</a><br>
+<a target="_blank" href="http://vaberer.me">Blog</a>
+
+
+<h2>Licence</h2>
+
+PVGuide is available under the MIT license. See the LICENSE file for more info.
