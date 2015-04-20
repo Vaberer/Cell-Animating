@@ -28,4 +28,4 @@ Patrik Vaberer, patrik.vaberer@gmail.com<br/>
 
 <h2>Licence</h2>
 
-PVGuide is available under the MIT license. See the LICENSE file for more info.
+Cell-Animating is available under the MIT license. See the LICENSE file for more info.
