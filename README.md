@@ -4,7 +4,7 @@ Demonstrating cell animation
 
 
 <p align="center">
-  <img src="https://github.com/Vaberer/Cell-Animating/blob/master/Untitled_2_iPod_iPhone_.gif" />
+  <img height="480" src="https://github.com/Vaberer/Cell-Animating/blob/master/Untitled_2_iPod_iPhone_.gif" />
 </p>
 
 Dynamic cells can be beautifuly animated. 
