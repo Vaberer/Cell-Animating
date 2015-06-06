@@ -1,5 +1,5 @@
 # Cell-Animating
-Demonstrating cell animation
+Demonstrating custom cell animation.
 
 
 
